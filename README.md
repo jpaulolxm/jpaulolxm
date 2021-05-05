@@ -1,4 +1,4 @@
-# Hi, I'm João Paulo Nunes! :D
+# Hi, I'm João Paulo! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jpaulolxm)](https://github.com/jpaulolxm)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-paulo-30344838/)](https://www.linkedin.com/in/jo%C3%A3o-paulo-30344838/)
